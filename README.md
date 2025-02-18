@@ -8,13 +8,14 @@ I am always eager to learn new technologies, and I focus on writing clean, effic
 
 ## 🛠️ Skills
 
-![Java](https://img.shields.io/badge/--black?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/--blue?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/--orange?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/--blue?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/--yellow?style=flat-square&logo=javascript&logoColor=white)
-![Oracle](https://img.shields.io/badge/--F80000?style=flat-square&logo=oracle&logoColor=white)
-![Spring](https://img.shields.io/badge/--green?style=flat-square&logo=spring&logoColor=white)
+![Java](https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg)
+![C](https://upload.wikimedia.org/wikipedia/commons/1/1e/C_Programming_Language.svg)
+![HTML5](https://upload.wikimedia.org/wikipedia/commons/5/5c/HTML5_logo_and_wordmark.svg)
+![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/64/CSS3_logo.svg)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/61/JavaScript_logo_2.svg)
+![Oracle](https://upload.wikimedia.org/wikipedia/commons/9/98/Oracle_logo.svg)
+![Spring](https://upload.wikimedia.org/wikipedia/commons/5/52/Spring_Framework_Logo_2018.svg)
+
 
 
 
