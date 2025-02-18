@@ -5,15 +5,17 @@ Hello! I'm **Jyothi Godavarthi**, a passionate **Java Developer** with a backgro
 ## 🌱 About Me
 
 I am always eager to learn new technologies, and I focus on writing clean, efficient code that meets business requirements. 
-## Skills
 
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=white)
+## 🛠️ Skills
+
+![Java](https://img.shields.io/badge/-black?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-blue?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/-orange?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-blue?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-yellow?style=flat-square&logo=javascript&logoColor=white)
+![Oracle](https://img.shields.io/badge/-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Spring](https://img.shields.io/badge/-green?style=flat-square&logo=spring&logoColor=white)
+
 
 ## 🚀 Projects
 
